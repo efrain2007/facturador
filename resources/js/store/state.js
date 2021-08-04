@@ -1,0 +1,15 @@
+export default {
+    userType: '',
+    config: {},
+    warehouses: {},
+    all_items:{},
+    office:{},
+    file: {},
+    files:[],
+    processes:[],
+    actions:[],
+    offices:[],
+    documentTypes:[],
+    customers:[],
+    workers:[],
+}
